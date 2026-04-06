@@ -1,0 +1,24 @@
+env:
+  max_drones: 4
+  initial_active_drones: 3
+  max_steps: 60
+
+event:
+  enabled: true
+  schedule:
+    - step: 20
+      type: leave
+      agent_id: 2
+      reason: scripted_leave
+    - step: 40
+      type: join
+      agent_id: 2
+      reason: scripted_rejoin
+    - step: 41
+      type: join
+      agent_id: 3
+      reason: scripted_join
+
+debug:
+  log_events: true
+  log_active_mask: true
