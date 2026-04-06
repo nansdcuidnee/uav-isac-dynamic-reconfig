@@ -1,0 +1,34 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyc.*
+**/__pycache__/
+**/*.pyc
+**/*.pyc.*
+
+# Training results
+results/models/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary directories and files
+results/tmp_*/
+results/tmp_*.yaml
+
+# Test output
+*test_output.txt
+
+# Generated demo artifacts
+logs/*.log
+logs/*.txt
+logs/*.png
+results/videos/*.mp4
+src/visualization/*.mp4
