@@ -1,0 +1,34 @@
+# 训练配置
+
+# 训练回合数
+num_episodes: 1000
+
+# 批次大小
+batch_size: 1024
+
+# 经验回放缓冲区大小
+memory_size: 1000000
+
+# Actor网络学习率
+lr_actor: 0.01
+
+# Critic网络学习率
+lr_critic: 0.01
+
+# 折扣因子
+gamma: 0.95
+
+# 目标网络软更新系数
+tau: 0.01
+
+# 探索噪声标准差
+noise_std: 0.1
+
+# 模型保存间隔
+save_interval: 100
+
+# 日志记录间隔
+log_interval: 1
+
+# 评估间隔
+eval_interval: 100

@@ -1,0 +1,40 @@
+# 环境配置
+
+# 无人机数量
+num_drones: 3
+
+# 用户数量
+num_users: 20
+
+# 每回合最大步数
+max_steps: 64
+
+# 区域大小（米）
+area_size: 200.0
+
+# 无人机高度（米）
+drone_height: 50.0
+
+# 最大速度（米/秒）
+max_speed: 5.0
+
+# 安全距离（米）
+safe_distance: 5.0
+
+# 通信范围（米）
+communication_range: 30.0
+
+# 感知范围（米）
+sensing_range: 40.0
+
+# 发射功率
+P: 1.0
+
+# 噪声功率
+noise: 1e-3
+
+# 感知信噪比阈值
+snr_threshold: 0.5
+
+# 时间步长
+dt: 1.0

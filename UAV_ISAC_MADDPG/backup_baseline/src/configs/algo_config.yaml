@@ -1,0 +1,37 @@
+# MADDPG算法配置
+
+# 智能体数量
+num_agents: 3
+
+# 观察维度（每个智能体）
+obs_dim: 44  # 2(位置) + 2(速度) + 1(越界) + 1(碰撞) + 1(电池) + num_users(SNR) + num_users(连接)
+
+# 动作维度（每个智能体）
+action_dim: 2  # [dx, dy]
+
+# 网络架构
+actor_hidden_dim: [64, 64]
+critic_hidden_dim: [64, 64]
+
+# 激活函数
+activation: "relu"
+
+# 噪声类型
+noise_type: "ou"  # ou, gaussian
+
+# OU噪声参数
+ou_theta: 0.15
+ou_sigma: 0.2
+
+# 高斯噪声参数
+gaussian_std: 0.1
+
+# 奖励函数权重
+alpha: 1.0  # 通信速率权重
+beta: 2.0   # 覆盖率权重
+gamma: 1.0  # 惩罚项权重
+
+# 惩罚项系数
+collision_penalty: 1.0
+out_of_bounds_penalty: 1.0
+energy_penalty: 1.0
