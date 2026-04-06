@@ -1,0 +1,28 @@
+# 环境配置
+env:
+  num_drones: 3
+  num_users: 20
+  max_steps: 64
+  alpha: 1.0  # 通信速率权重
+  beta: 2.0  # 覆盖率权重
+  gamma: 1.0  # 惩罚项权重
+
+# 算法配置
+algo:
+  lr_actor: 0.001
+  lr_critic: 0.001
+  gamma: 0.95
+  tau: 0.01
+  batch_size: 64
+  memory_size: 1000000
+
+# 训练配置
+train:
+  num_episodes: 1000
+  save_interval: 100
+  log_interval: 10
+
+# 评估配置
+eval:
+  num_episodes: 10
+  seed: 42

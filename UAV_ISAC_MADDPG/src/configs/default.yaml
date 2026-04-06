@@ -1,0 +1,22 @@
+# 全局配置
+
+# 项目名称
+project_name: "UAV ISAC MADDPG"
+
+# 运行模式
+mode: "train"  # train, test, visualize
+
+# 随机种子
+seed: 42
+
+# 结果保存目录
+save_dir: "results"
+
+# 日志保存目录
+log_dir: "results/logs"
+
+# 模型保存路径
+model_path: "results/models/best_model.pt"
+
+# 实验名称
+experiment_name: "default"

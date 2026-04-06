@@ -1,0 +1,2102 @@
+[
+  {
+    "time": 0,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 0,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 0,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 1,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 1,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 1,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 2,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 2,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 2,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 3,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 3,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 3,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 4,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 4,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 4,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 5,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 5,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 5,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 6,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 6,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 6,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 7,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 7,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 7,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 8,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 8,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 8,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 9,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 9,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 9,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 10,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 10,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 10,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 11,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 11,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 11,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 12,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 12,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 12,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 13,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 13,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 13,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 14,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 14,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 14,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 15,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 15,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 15,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 16,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 16,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 16,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 17,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 17,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 17,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 18,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 18,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 18,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 19,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 19,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 19,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 20,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 20,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 20,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 21,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 21,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 21,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 22,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 22,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 22,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 23,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 23,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 23,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 24,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 24,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 24,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 25,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 25,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 25,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 26,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 26,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 26,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 27,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 27,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 27,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 28,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 28,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 28,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 29,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 29,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 29,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 30,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 30,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 30,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 31,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 31,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 31,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 32,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 32,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 32,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 33,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 33,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 33,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 34,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 34,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 34,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 35,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 35,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 35,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 36,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 36,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 36,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 37,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 37,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 37,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 38,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 38,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 38,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 39,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 39,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 39,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 40,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 40,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 40,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 41,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 41,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 41,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 42,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 42,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 42,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 43,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 43,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 43,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 44,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 44,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 44,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 45,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 45,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 45,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 46,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 46,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 46,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 47,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 47,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 47,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 48,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 48,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 48,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 49,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 49,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 49,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 50,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 50,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 50,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 51,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 51,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 51,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 52,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 52,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 52,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 53,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 53,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 53,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 54,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 54,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 54,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 55,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 55,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 55,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 56,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 56,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 56,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 57,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 57,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 57,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 58,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 58,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 58,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 59,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 59,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 59,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 60,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 60,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 60,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 61,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 61,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 61,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 62,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 62,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 62,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 63,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 63,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 63,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 64,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 64,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 64,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 65,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 65,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 65,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 66,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 66,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 66,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 67,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 67,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 67,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 68,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 68,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 68,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 69,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 69,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 69,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 70,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 70,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 70,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 71,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 71,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 71,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 72,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 72,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 72,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 73,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 73,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 73,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 74,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 74,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 74,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 75,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 75,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 75,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 76,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 76,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 76,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 77,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 77,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 77,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 78,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 78,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 78,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 79,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 79,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 79,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 80,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 80,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 80,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 81,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 81,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 81,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 82,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 82,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 82,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 83,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 83,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 83,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 84,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 84,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 84,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 85,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 85,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 85,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 86,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 86,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 86,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 87,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 87,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 87,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 88,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 88,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 88,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 89,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 89,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 89,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 90,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 90,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 90,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 91,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 91,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 91,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 92,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 92,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 92,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 93,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 93,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 93,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 94,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 94,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 94,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 95,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 95,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 95,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 96,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 96,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 96,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 97,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 97,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 97,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 98,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 98,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 98,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 99,
+    "uav1": 0,
+    "uav2": 1,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  },
+  {
+    "time": 99,
+    "uav1": 0,
+    "uav2": 2,
+    "distance": 101.9803902718557,
+    "signal_strength": 0.4900980486407215
+  },
+  {
+    "time": 99,
+    "uav1": 1,
+    "uav2": 2,
+    "distance": 50.99019513592785,
+    "signal_strength": 0.7450490243203607
+  }
+]
